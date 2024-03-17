@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsCloudTrimming", "PointsCloudTrimming.csproj", "{3016DDFA-FE9B-42C2-BEC4-8217E71D39DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3016DDFA-FE9B-42C2-BEC4-8217E71D39DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3016DDFA-FE9B-42C2-BEC4-8217E71D39DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3016DDFA-FE9B-42C2-BEC4-8217E71D39DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3016DDFA-FE9B-42C2-BEC4-8217E71D39DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C93167E-4729-42DB-A266-9909BB34BEB3}
+	EndGlobalSection
+EndGlobal
